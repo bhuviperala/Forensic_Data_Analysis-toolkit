@@ -19,6 +19,4 @@ python3
 
 Install Dumpzilla from GitHub
 
-git clone https://github.com/Busindre/Dumpzilla.git cd Dumpzilla chmod +x dumpzilla.py
-
-You can now run Dumpzilla with: python3 dumpzilla.py /path/to/firefox/profile
+git clone https://github.com/bhuviperala/Forensic_Data_Analysis-toolkit.git
